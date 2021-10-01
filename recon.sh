@@ -1,4 +1,9 @@
 #!/bin/bash
+# run as root
+if [[ $EUID -ne 0 ]]; then
+   echo "This script must be run as root" 
+   exit 1
+fi
 
 YELLOW="\033[1;33m"
 GREEN="\033[0;32m"

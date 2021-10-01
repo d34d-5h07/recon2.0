@@ -1,10 +1,12 @@
 #!/bin/bash
 
 # run as root
+#!/bin/bash
+if [[ $EUID -ne 0 ]]; then
+   echo "This script must be run as root" 
+   exit 1
+fi
 
-if (whoami != root)
-  then echo "Please run as root"
-else
 YELLOW="\033[1;33m"
 GREEN="\033[0;32m"
 displaylogo(){

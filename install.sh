@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# run as root
+
+if (whoami != root)
+  then echo "Please run as root"
+else
 YELLOW="\033[1;33m"
 GREEN="\033[0;32m"
 displaylogo(){

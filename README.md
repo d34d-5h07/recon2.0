@@ -60,6 +60,24 @@ Tools that will be installed:
 
 <br>
 
+# Contributors :star_struck:
+ 
+* Details of Contributors:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/akashsebastian333"><img src="https://avatars.githubusercontent.com/akashsebastian333?s=100" width="100px;" alt=""/><br /><sub><b>Akash Sebastian</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/an0n4ce"><img src="https://avatars.githubusercontent.com/an0n4ce?s=100" width="100px;" alt=""/><br /><sub><b>Vishnu Sudhakaran</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/alphacrackz"><img src="https://avatars.githubusercontent.com/alphacrackz?s=100" width="100px;" alt=""/><br /><sub><b>Akshay Krishna</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ansanbinoy"><img src="https://avatars.githubusercontent.com/ansanbinoy?s=100" width="100px;" alt=""/><br /><sub><b>Ansan Binoy</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Shamillshan"><img src="https://avatars.githubusercontent.com/Shamillshan?s=100" width="100px;" alt=""/><br /><sub><b>Shamillshan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/v1nc1d4"><img src="https://avatars.githubusercontent.com/v1nc1d4?s=100" width="100px;" alt=""/><br /><sub><b>Anurag M</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ananthakrishnaner"><img src="https://avatars.githubusercontent.com/ananthakrishnaner?s=100" width="100px;" alt=""/><br /><sub><b>Ananthakrishnan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/AkshayKrishnaM"><img src="https://avatars.githubusercontent.com/AkshayKrishnaM?s=100" width="100px;" alt=""/><br /><sub><b>Akshay Krishna</b></sub></a><br /></td>
+   
+</table>
+
+
 ## 💙 Credits
   This tool was inspired by @x1mdev [Reconpi](https://github.com/x1mdev/ReconPi)
  script. Thanks to them for the great idea!
